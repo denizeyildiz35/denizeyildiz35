@@ -21,7 +21,7 @@ I’m interested in optimization, algorithms, software development, and 3D techn
 `Gurobi` `OR-Tools` `Lingo`
 `A*` `Dijkstra` `IDA*` `AHP`
 `Blender` `Unreal Engine 5`
-`GitHub` `Obsidian` `Bitwarden` `Google Drive` `Project IDX`
+`GitHub` `Obsidian` `Google Ecosystem` 
 
 ---
 
